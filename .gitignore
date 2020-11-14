@@ -1,10 +1,4 @@
-# path
-database/
-
 # unnecessary
 .idea/
 .Rhistory
 .ipynb_checkpoints/
-
-# secret
-mysql_db_update.py
