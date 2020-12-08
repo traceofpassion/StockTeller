@@ -2,3 +2,7 @@
 .idea/
 .Rhistory
 .ipynb_checkpoints/
+
+# path
+/data/
+/credential/
